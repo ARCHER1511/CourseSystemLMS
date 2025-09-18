@@ -10,6 +10,8 @@
     Height="450"
     mc:Ignorable="d">
     <Grid>
+        <Frame>
 
+        </Frame>
     </Grid>
 </Window>
