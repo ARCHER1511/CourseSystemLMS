@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Development Vault\\CourseSystemLMS\\Tests\\Tests.csproj": {}
+    "D:\\Projects\\New folder\\CourseSystemLMS\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj": {
+    "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Ramy Mahana\\.nuget\\packages\\",
-        "outputPath": "D:\\_Development Vault\\CourseSystemLMS\\Application\\obj\\",
+        "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\METRO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ramy Mahana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\METRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,14 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj"
               }
             }
           }
@@ -70,24 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj": {
+    "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Ramy Mahana\\.nuget\\packages\\",
-        "outputPath": "D:\\_Development Vault\\CourseSystemLMS\\Core\\obj\\",
+        "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\METRO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ramy Mahana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\METRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,7 +97,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -136,24 +136,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Ramy Mahana\\.nuget\\packages\\",
-        "outputPath": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\METRO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ramy Mahana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\METRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -163,17 +163,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj"
               },
-              "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj"
               }
             }
           }
@@ -195,6 +195,12 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -225,24 +231,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\_Development Vault\\CourseSystemLMS\\Tests\\Tests.csproj": {
+    "D:\\Projects\\New folder\\CourseSystemLMS\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Development Vault\\CourseSystemLMS\\Tests\\Tests.csproj",
+        "projectUniqueName": "D:\\Projects\\New folder\\CourseSystemLMS\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\Ramy Mahana\\.nuget\\packages\\",
-        "outputPath": "D:\\_Development Vault\\CourseSystemLMS\\Tests\\obj\\",
+        "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\METRO\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ramy Mahana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\METRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,20 +258,20 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Application\\Application.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Application\\Application.csproj"
               },
-              "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Core.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Core\\Core.csproj"
               },
-              "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\New folder\\CourseSystemLMS\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -301,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

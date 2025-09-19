@@ -10,8 +10,34 @@
     Height="450"
     mc:Ignorable="d">
     <Grid>
-        <Frame>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <!-- Sidebar -->
+            <ColumnDefinition Width="*"/>
+            <!-- Content Area -->
+        </Grid.ColumnDefinitions>
 
-        </Frame>
+        <!-- Sidebar Navigation -->
+        <StackPanel Background="#2D2D30" Grid.Column="0">
+            <TextBlock Text="Educational Center"
+                       Foreground="White"
+                       FontSize="18"
+                       Margin="10"
+                       HorizontalAlignment="Center"/>
+
+            <Separator Margin="10"/>
+
+            <Button Content="Dashboard" Foreground="White" Margin="10" Click="Dashboard_Click"/>
+            <Button Content="Students" Foreground="White" Margin="10" Click="Students_Click"/>
+            <Button Content="Groups" Foreground="White" Margin="10" Click="Groups_Click"/>
+            <Button Content="Payments" Foreground="White" Margin="10" Click="Payments_Click"/>
+            <Button Content="Reports" Foreground="White" Margin="10" Click="Reports_Click"/>
+            <Button Content="Settings" Foreground="White" Margin="10" Click="Settings_Click"/>
+        </StackPanel>
+
+        <!-- Main Content Area -->
+        <Frame x:Name="MainFrame"
+               Grid.Column="1"
+               NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

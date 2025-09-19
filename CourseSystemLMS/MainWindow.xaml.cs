@@ -19,6 +19,38 @@ namespace CourseSystemLMS
         public MainWindow()
         {
             InitializeComponent();
+            // Load default page when app starts
+            MainFrame.Navigate(new Views.DashboardPage());
+        }
+
+        private void Dashboard_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.DashboardPage());
+        }
+
+        private void Students_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.Students());
+        }
+
+        private void Groups_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.Groups());
+        }
+
+        private void Payments_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.Payments());
+        }
+
+        private void Reports_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.Payments());
+        }
+
+        private void Settings_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Views.Settings());
         }
     }
 }

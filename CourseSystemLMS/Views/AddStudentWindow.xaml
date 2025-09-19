@@ -1,0 +1,84 @@
+﻿<Window x:Class="CourseSystemLMS.Views.AddStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add New Student"
+        Height="450" Width="420"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#F5F5F5">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Text="Add New Student"
+                   FontSize="22"
+                   FontWeight="Bold"
+                   Foreground="#333"
+                   Margin="0 0 0 15"/>
+
+        <!-- Form Inputs -->
+        <StackPanel Grid.Row="1" VerticalAlignment="Top">
+
+            <!-- Full Name -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Full Name" FontWeight="SemiBold"/>
+                <TextBox x:Name="FullNameBox" Height="30"/>
+            </StackPanel>
+
+            <!-- Date of Birth -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Date of Birth" FontWeight="SemiBold"/>
+                <DatePicker x:Name="DOBPicker" Height="30"/>
+            </StackPanel>
+
+            <!-- Parent Contact -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Parent Contact" FontWeight="SemiBold"/>
+                <TextBox x:Name="ParentContactBox" Height="30"/>
+            </StackPanel>
+
+            <!-- Subscription Status -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Subscription Status" FontWeight="SemiBold"/>
+                <ComboBox x:Name="SubscriptionStatusBox" Height="30">
+                    <ComboBoxItem Content="Active"/>
+                    <ComboBoxItem Content="Inactive"/>
+                </ComboBox>
+            </StackPanel>
+
+            <!-- Grade -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Grade" FontWeight="SemiBold"/>
+                <TextBox x:Name="GradeBox" Height="30"/>
+            </StackPanel>
+
+            <!-- Group -->
+            <StackPanel Orientation="Vertical" Margin="0 0 0 10">
+                <TextBlock Text="Group" FontWeight="SemiBold"/>
+                <TextBox x:Name="GroupBox" Height="30"/>
+            </StackPanel>
+
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 15 0 0">
+            <Button Content="Cancel"
+                    Width="80"
+                    Height="30"
+                    Margin="0 0 10 0"
+                    Background="#CCC"
+                    Click="Cancel_Click"/>
+            <Button Content="Add"
+                    Width="80"
+                    Height="30"
+                    Background="#4CAF50"
+                    Foreground="White"
+                    Click="Add_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,111 @@
+﻿<Page x:Class="CourseSystemLMS.Views.Payments"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Title="Payments">
+
+    <Grid Background="#F5F5F5" Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <!-- Groups Panel -->
+            <ColumnDefinition Width="20"/>
+            <!-- Spacer -->
+            <ColumnDefinition Width="*"/>
+            <!-- Students Panel -->
+        </Grid.ColumnDefinitions>
+
+        <!-- LEFT PANEL: GROUPS -->
+        <Border Background="White" 
+                CornerRadius="8" 
+                BorderBrush="#DDD" 
+                BorderThickness="1"
+                Padding="10"
+                Margin="0 0 10 0">
+            <StackPanel>
+                <TextBlock Text="Groups" 
+                           FontSize="20" 
+                           FontWeight="Bold" 
+                           Foreground="#333" 
+                           Margin="0 0 10 0"/>
+
+                <ListBox x:Name="GroupsListBox" 
+                         SelectionChanged="GroupsListBox_SelectionChanged"
+                         BorderBrush="#CCC" 
+                         BorderThickness="1"
+                         Background="#FAFAFA">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding GroupName}" 
+                                       FontSize="16" 
+                                       Padding="8"
+                                       Foreground="#222"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </Border>
+
+        <!-- RIGHT PANEL: STUDENTS -->
+        <Border Grid.Column="2" 
+                Background="White" 
+                CornerRadius="8" 
+                BorderBrush="#DDD" 
+                BorderThickness="1"
+                Padding="10">
+            <StackPanel>
+                <TextBlock Text="Students Payments" 
+                           FontSize="20" 
+                           FontWeight="Bold" 
+                           Foreground="#333" 
+                           Margin="0 0 10 0"/>
+
+                <ListView x:Name="StudentsListView" 
+                          Background="#FAFAFA"
+                          BorderBrush="#CCC"
+                          BorderThickness="1"
+                          MouseDoubleClick="StudentsListView_MouseDoubleClick">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Border Margin="0 0 0 8" 
+                                    Padding="10" 
+                                    CornerRadius="5">
+                                <Border.Style>
+                                    <Style TargetType="Border">
+                                        <Setter Property="Background" Value="#EEE"/>
+                                        <!-- Default -->
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding PaymentStatus}" Value="Not Paid">
+                                                <Setter Property="Background" Value="#FFCDD2"/>
+                                                <!-- Light Red -->
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding PaymentStatus}" Value="Partial">
+                                                <Setter Property="Background" Value="#FFF9C4"/>
+                                                <!-- Light Yellow -->
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding PaymentStatus}" Value="Full Paid">
+                                                <Setter Property="Background" Value="#C8E6C9"/>
+                                                <!-- Light Green -->
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Border.Style>
+
+                                <StackPanel>
+                                    <TextBlock Text="{Binding FullName}" 
+                                               FontSize="16" 
+                                               FontWeight="Bold" 
+                                               Foreground="#222"/>
+                                    <TextBlock Text="{Binding PaymentInfo}" 
+                                               FontSize="14" 
+                                               Foreground="#555"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
