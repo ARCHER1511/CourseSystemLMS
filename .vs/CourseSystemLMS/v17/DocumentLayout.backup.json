@@ -3,76 +3,20 @@
   "WorkspaceRootPath": "D:\\_Development Vault\\CourseSystemLMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\utilities\\publiccodecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\utilities\\publiccodecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\coursesystemlms\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\grouptransferhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\grouptransferhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\studentexamscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\studentexamscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\enums\\valueobjects\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\enums\\valueobjects\\subscriptionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|d:\\_development vault\\coursesystemlms\\coursesystemlms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|solutionrelative:coursesystemlms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\coursesystemlms\\infrastructure\\data\\coursesystemlmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\coursesystemlmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|d:\\_development vault\\coursesystemlms\\coursesystemlms\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|solutionrelative:coursesystemlms\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|d:\\_development vault\\coursesystemlms\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22E0124B-0EC4-40BF-A874-449FAF7897C0}|Core\\Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\coursesystemlms\\infrastructure\\data\\coursesystemlmscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\coursesystemlmscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|d:\\_development vault\\coursesystemlms\\coursesystemlms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC8EFDFC-9611-4DF7-A090-B02BB6CEB5F5}|CourseSystemLMS\\CourseSystemLMS.csproj|solutionrelative:coursesystemlms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\coursesystemlms\\infrastructure\\data\\coursesystemlmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DFC77C-1081-4C60-9B13-DFE817D79DA0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\coursesystemlmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 47,
+          "SelectedChildIndex": 50,
           "Children": [
             {
               "$type": "Bookmark",
@@ -151,10 +95,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
             },
             {
               "$type": "Bookmark",
@@ -273,236 +213,56 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PublicCodeCreate.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Utilities\\PublicCodeCreate.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\PublicCodeCreate.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Utilities\\PublicCodeCreate.cs",
-              "RelativeToolTip": "Core\\Utilities\\PublicCodeCreate.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:53:02.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:12:09.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Group.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Group.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Group.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Group.cs",
-              "RelativeToolTip": "Core\\Entities\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:40:07.494Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Student.cs",
-              "RelativeToolTip": "Core\\Entities\\Student.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Title": "CourseSystemLMSContextFactory.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\CourseSystemLMSContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\CourseSystemLMSContextFactory.cs",
+              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\CourseSystemLMSContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\CourseSystemLMSContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:44:36.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GroupTransferHistory.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\GroupTransferHistory.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\GroupTransferHistory.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\GroupTransferHistory.cs",
-              "RelativeToolTip": "Core\\Entities\\GroupTransferHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:20:37.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Subscription.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Subscription.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Subscription.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Subscription.cs",
-              "RelativeToolTip": "Core\\Entities\\Subscription.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:05:01.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentExamScore.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\StudentExamScore.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\StudentExamScore.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\StudentExamScore.cs",
-              "RelativeToolTip": "Core\\Entities\\StudentExamScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:58:30.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Session.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Session.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Session.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Session.cs",
-              "RelativeToolTip": "Core\\Entities\\Session.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:52:36.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Payment.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Payment.cs",
-              "RelativeToolTip": "Core\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:00:04.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T14:12:52.851Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:26:16.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Grade.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Grade.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Grade.cs",
-              "RelativeToolTip": "Core\\Entities\\Grade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:39:11.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Exam.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Exam.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Exam.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Exam.cs",
-              "RelativeToolTip": "Core\\Entities\\Exam.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:55:29.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\Admin.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Entities\\Admin.cs",
-              "RelativeToolTip": "Core\\Entities\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:11:31.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SubscriptionStatus.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Enums\\ValueObjects\\SubscriptionStatus.cs",
-              "RelativeDocumentMoniker": "Core\\Enums\\ValueObjects\\SubscriptionStatus.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Enums\\ValueObjects\\SubscriptionStatus.cs",
-              "RelativeToolTip": "Core\\Enums\\ValueObjects\\SubscriptionStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:49:43.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CourseSystemLMS\\MainWindow.xaml",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\MainWindow.xaml",
-              "RelativeToolTip": "CourseSystemLMS\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-18T13:55:10.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\App.xaml.cs",
-              "RelativeDocumentMoniker": "CourseSystemLMS\\App.xaml.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\App.xaml.cs",
-              "RelativeToolTip": "CourseSystemLMS\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:34:57.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "CourseSystemLMSDbContext.cs",
               "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\CourseSystemLMSDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\CourseSystemLMSDbContext.cs",
               "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Infrastructure\\Data\\CourseSystemLMSDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\CourseSystemLMSDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:20:46.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T14:05:42.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\Core\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseSystemLMS\\appsettings.json",
+              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\appsettings.json",
+              "RelativeToolTip": "CourseSystemLMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T14:03:29.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CourseSystemLMS\\App.xaml.cs",
+              "ToolTip": "D:\\_Development Vault\\CourseSystemLMS\\CourseSystemLMS\\App.xaml.cs",
+              "RelativeToolTip": "CourseSystemLMS\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:13:30.095Z",
+              "WhenOpened": "2025-09-19T13:18:38.785Z",
               "EditorCaption": ""
             }
           ]
